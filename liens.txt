@@ -1,0 +1,17 @@
+https://mobirise.com/extensions/therapym4/therapy/
+
+
+https://youtu.be/fzUlpJTXryE
+
+
+ style="height: 150px; width: 200px; border-radius: 100%;"
+
+
+
+
+
+ <li><a class="dropdown-item" href="#"></a>EN-TETE/FONCTIONALITÉ/INFOS</li>
+              <li><a class="dropdown-item" href="#"> CONTENU/ACCORDÉO/BOUTIQUE</ali>
+              <li><a class="dropdown-item" href="#"></a> TARIFICATION/PROGRES/VIDEO</li>
+              <li><a class="dropdown-item" href="#"></a>CONTACTS/EQUIPES/PLANS</li>
+              <li><a class="dropdown-item" href="#"></a> CLIENTS/TÉMOIGNAGE</li>
