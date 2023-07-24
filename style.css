@@ -1,0 +1,215 @@
+.my-bg{
+    border-right: 1px solid rgb(136, 88, 138);
+
+}
+
+.my-nav{
+    border-top:0px;
+}
+
+
+
+.navbar-nav .nav-link {
+    color: #fff;
+  }
+  .dropend .dropdown-toggle {
+    color: salmon;
+    margin-left: 1em;
+  }
+  .dropdown-item:hover {
+    background-color: lightsalmon;
+    color: #fff;
+  }
+  .dropdown .dropdown-menu {
+    display: none;
+  }
+  .dropdown:hover > .dropdown-menu,
+  .dropend:hover > .dropdown-menu {
+    display: block;
+    margin-top: 0.125em;
+    margin-left: 0.125em;
+  }
+  @media screen and (min-width: 769px) {
+    .dropend:hover > .dropdown-menu {
+      position: absolute;
+      top: 0;
+      left: 100%;
+    }
+    .dropend .dropdown-toggle {
+      margin-left: 0.5em;
+    }
+  }
+  
+  
+
+.bg{
+    margin-top: 35px;
+    margin-bottom: 50px;
+}
+
+.content1{
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left:0;
+    position: absolute;
+    background-color: rgb(0,0,128,0.5);
+    justify-content: center;
+    opacity: 0;
+    transition: 0.1s;
+    align-items: center;
+
+
+}
+.content1:hover{
+    opacity: 1;
+}
+.content1 h3{
+  margin-top: 30%;
+  color: aliceblue;
+}
+
+.content1 P{
+  color: red;
+}
+
+
+.demo{
+  margin-top: 50px;
+}
+
+.row-1{
+  background-image: url(images/02.jpg);
+}
+.text{
+  color: rgb(92, 13, 81);
+  margin-top: 70px;
+  
+}
+
+.contenu{
+  color: antiquewhite;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.text-6{
+  margin-top: 80 px;
+}
+
+/*compartiment n°7*/
+.sept{
+  margin-top: 80px;
+}
+
+.petit7{
+  margin-top: 2rem;
+  color:rgb(110, 12, 12);
+}
+
+.grand7{
+  color: blue;
+  margin-top: 2rem;
+  margin-bottom: 1.5rem;
+}
+.pm7{
+  margin-top: 2rem;
+  margin-bottom: 2.5rem;
+}
+
+.pf7{
+  margin-top: 4rem;
+}
+
+.chiffre{
+  color: rgb(74, 4, 139);
+  font-family: Lugrasimo;
+  margin-top: 1.5cm;
+  
+}
+
+.chiffre1{
+  color: rgb(74, 4, 139);
+  font-family: Lugrasimo;
+}
+
+.bloc8{
+  border-right: 1px rgb(223, 221, 221) solid;
+}
+
+.tarif{
+  color:rgb(74, 4, 139);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.image-ron{
+  height: 200px;
+  width: 250px;
+  border-radius: 150%;
+}
+
+.bloc11{
+  background-color:rgb(223, 87, 87) ;
+}
+
+.millieu11{
+  border-left: 1px white solid;
+  border-right: 1px white solid;
+}
+.ligne11{
+  margin-top: 50px;
+  margin-bottom: 20px;
+}
+
+.ligne111{
+  margin-bottom: 50px;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 30px;
+}
+
+.bloc9{
+  margin-top: 30px;
+}
+
+.blog10{
+  margin-top: 5rem;
+  background-color: rgb(252, 230, 230) ;
+}
+.ptbloc10{
+  color: rgb(238, 84, 84) ;
+  margin-top: 3rem;
+}
+
+
+.profil{
+  margin-top: 100px;
+}
+
+.image-carte{
+  height: 200px; 
+  width: 200px; 
+  border-radius: 100%;
+  position: relative;
+  top: -50px;
+  
+}
+
+.carte{
+  background-color: rgb(255, 244, 244) ;
+  
+}
+
+
+.blocf{
+  margin-top: 50px;
+}
+
+.bgform{
+  background-color: rgb(243, 233, 243);
+}
+
+.fff input:focus{
+  outline: none;
+  border: 0px;
+}
+
+
